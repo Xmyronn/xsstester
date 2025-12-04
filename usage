@@ -1,0 +1,3 @@
+the tool will be in 
+/mnt/data/xss_tester.py
+python3 /mnt/data/xss_tester.py http://localhost/page.php --get-params q id --post-params comment --payloads-file /path/to/payloads.txt
