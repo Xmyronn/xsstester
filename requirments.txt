@@ -1,1 +1,2 @@
 install requirements: requests, beautifulsoup4
+python3 -m pip install --user requests beautifulsoup4
